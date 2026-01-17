@@ -1,0 +1,7 @@
+{
+  "name": "Excuse Pro AI",
+  "description": "Premium AI-powered excuse generator for professional and personal alibis, featuring a specialized AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
